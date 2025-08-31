@@ -134,4 +134,5 @@ CSSの `:root` にある `--accent` / `--accent-2` を好みの色に変更。
 A. はい、1ファイルなのでOKです。
 
 **Q. 新しい材料やレシピを増やしたい**
-A. `COMMON_ING` / `SPECIALS` を編集してください。テンプ
+A. `COMMON_ING` / `SPECIALS` を編集してください。
+
